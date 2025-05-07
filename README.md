@@ -29,3 +29,9 @@ This project uses a fine-tuned YOLO model to detect PPE violations in recorded v
    git clone https://github.com/your-username/safevision-ai.git
    cd Worker-Sentry
 
+2. Install Requirements
+   ```bash
+   pip install -r requirements.txt
+
+   
+
