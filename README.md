@@ -172,14 +172,12 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License.
 
 ---
 
 <div align="center">
 
 Built for workplace safety
-
-**[Report a Bug](https://github.com/your-username/safevision-ai/issues)** · **[Request a Feature](https://github.com/your-username/safevision-ai/issues)** · **[Documentation](https://github.com/your-username/safevision-ai/wiki)**
 
 </div>
